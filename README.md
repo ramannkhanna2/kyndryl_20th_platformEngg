@@ -33,10 +33,6 @@ Add service with catalog-info.yaml into Backstage Catalog.
 ```
 •	Lab 5 – Enable GitHub OAuth Login
 Configure OAuth for personalized PR data and secure access.
-________________________________________
-Day 4 – Golden Paths & Developer Self-Service Foundations
-Goal: Introduce Golden Paths and software templates for consistent service delivery.
-Key Concepts
 •	Golden Paths: What, Why, and How to Design for Developer Experience
 •	Service Scaffolding in IDPs (Backstage Software Templates)
 •	Backstage IDP Plugin Ecosystem Overview
